@@ -27,3 +27,8 @@ python -m venv vehicles_env
 pip install -r requirements.txt
 
 streamlit run app.py
+
+## Despliegue
+
+La aplicación está desplegada en Render y es accesible en la siguiente URL:
+[https://car-sales-dashboard-1-v1jp.onrender.com](https://car-sales-dashboard-1-v1jp.onrender.com)
